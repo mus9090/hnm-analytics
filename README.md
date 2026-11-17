@@ -2,7 +2,7 @@
 
 **A customer and product analytics case study on 31M H&M transactions (public Kaggle dataset)**
 
-> **Status:** Week 1 — data sampling, profiling, and weekly aggregates
+> **Status:** Step 1 — data sampling, profiling, and weekly aggregates
 
 ## Business questions
 Follow a fashion product through its life and ask what a retailer should do at each stage:
