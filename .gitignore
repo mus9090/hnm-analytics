@@ -19,5 +19,10 @@ Thumbs.db
 projects_context.md
 CLAUDE.md
 
+# Personal learning notebooks (not part of the case study)
+notebooks/00_learn_the_code.ipynb
+notebooks/03_my_practice.ipynb
+reports/notebooks_01_02_explained.pdf
+
 # Power BI file (contains data)
 *.pbix
